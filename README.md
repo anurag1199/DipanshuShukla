@@ -16,5 +16,5 @@
 ---
 
 <p align="center">
-<img align="centre" alt="DipanshuShukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DipanshuShukla&show_icons=true&hide_border=false" />
+<img align="centre" alt="DipanshuShukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DipanshuShukla&show_icons=true&hide_border=false&hide=prs" />
 </p>
