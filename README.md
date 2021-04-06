@@ -2,8 +2,8 @@
 
 - 🎓 I’m currently a Computer Science student from India
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and build Drones / Robots🤖
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to design and build Drones / Robots🤖
 
 ### Connect with me:
 [<img align="left" alt="CodeBUNNY" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dipanshushukla.github.io/)
