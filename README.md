@@ -1,7 +1,7 @@
 ### Hi there, I'm Dipanshu - aka The [CodeBUNNY](https://dipanshushukla.github.io/) 👋
 
 - 🎓 I’m currently a Computer Science student from India
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything and experimenting 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and build Drones / Robots🤖
 
